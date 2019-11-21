@@ -1,0 +1,229 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+#header {
+    height: 800px;
+    background: url('../img/hero-image.png');
+    background-size: cover;
+}
+
+#work {
+    height: 2150px;
+}
+
+#about {
+    height: 650px;
+}
+
+#contact {
+    height: 400px;
+}
+
+/***** GRID *****/
+
+.full-width {
+    margin: 0 auto;
+    text-align: center;
+    width: 1200px;
+}
+
+.half-width {
+    float: left;
+    width: 600px;
+    text-align: left;
+}
+
+.third-width {
+    float: left;
+    width: 400px;
+}
+
+#header .full-width {
+    padding: 350px 0px;
+}
+
+#header h1 {
+    color: #bdbf09;
+    font-family: 'Roboto Slab', serif;
+    font-size: 60px;
+}
+
+#header h2 {
+    color: #095156;
+    font-size: 48px;
+    font-weight: 400;
+}
+
+/***** WORK *****/
+
+#work h3 {
+    color: #095156;
+    font-family: 'Roboto Slab', serif;
+    font-size: 36px;
+}
+
+#unplugged {
+    padding-bottom: 50px;
+    padding-top: 110px;
+}
+
+#unplugged-thumbnail {
+    padding-bottom: 50px;
+    padding-top: 110px;
+}
+
+#unplugged-thumbnail h4 {
+    color: #095156;
+    font-size: 24px;
+    font-weight: 700;  
+}
+
+#unplugged-thumbnail h5, p {
+    color: #095156;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+
+#rogue {
+    padding-bottom: 50px;
+    padding-top: 110px;
+}
+
+#rogue-thumbnail {
+    padding-bottom: 50px;
+    padding-top: 110px;
+}
+
+#rogue-thumbnail h4 {
+    color: #095156;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+#rogue-thumbnail h5, p {
+    color: #095156;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+#jubilee {
+    padding-bottom: 50px;
+    padding-top: 110px;
+}
+
+#jubilee-thumbnail {
+    padding-bottom: 50px;
+    padding-top: 110px;
+}
+
+#jubilee-thumbnail h4{
+    color: #095156;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+#jubilee-thumbnail h5, p {
+    color: #095156;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+
+#holstee {
+    padding-bottom: 50px;
+    padding-top: 110px;
+}
+
+#holstee-thumbnail {
+    padding-bottom: 50px;
+    padding-top: 110px;
+}
+
+#holstee-thumbnail h4 {
+    color: #095156;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+#holstee-thumbnail h5, p {
+    color: #095156;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+
+/***** ABOUT *****/
+
+#about {
+    color: #ffffff;
+    background: #087e8b;
+    width: 100%
+}
+
+#about h3 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 36px;
+    padding-top: 70px;
+    width: 100%
+}
+
+#about h4 {
+    font-size: 24px;
+    font-weight: 700;  
+    padding-top: 50px;
+    width: 100%
+}
+
+#about p {
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 400;
+    text-align: left;
+    width: 100%
+}
+
+#about-me-image {
+    padding-top: 25px;
+    max-width: 100%   
+}
+
+/***** CONTACT *****/
+
+#contact {
+    background: #095156;
+    color: #ffffff;
+    padding-top: 20px;
+}
+
+#contact h3 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 36px;
+}
+
+#contact h4 {
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+#contact p {
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+#contact ul {
+    list-style: none;
+}
+
+#contact ul li {
+    display: inline-block;
+}
+
+#contact li {
+    margin: 0 50px 0 0;
+}
