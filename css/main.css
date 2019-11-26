@@ -11,7 +11,7 @@ body {
 }
 
 #work {
-    height: 2150px;
+    height: 2650px;
 }
 
 #about {
@@ -150,6 +150,28 @@ body {
 }
 
 #holstee-thumbnail h5, p {
+    color: #095156;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+#ice {
+    padding-bottom: 50px;
+    padding-top: 110px;
+}
+
+#ice-thumbnail {
+    padding-bottom: 50px;
+    padding-top: 110px;
+}
+
+#ice-thumbnail h4 {
+    color: #095156;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+#ice-thumbnail h5, p {
     color: #095156;
     font-size: 24px;
     font-weight: 400;
